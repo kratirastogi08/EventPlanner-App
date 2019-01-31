@@ -4,9 +4,9 @@ Event Planner Mobile Application lets you to manage your party,event plannings w
 shopping list and many more.
 
 <h3>Screenshots</h3>
-<img src="https://user-images.githubusercontent.com/46498913/52032870-eae10800-2548-11e9-92af-c9fa526c13bf.png" width="300px" height="400px" ></img>
+<img src="https://user-images.githubusercontent.com/46498913/52032870-eae10800-2548-11e9-92af-c9fa526c13bf.png" width="250px" height="400px" float="left" ></img>
 
-<img src="https://user-images.githubusercontent.com/46498913/52032872-eb799e80-2548-11e9-9316-b12a07bd0979.png" width="300px" height="400px" float="left"></img>
+<img src="https://user-images.githubusercontent.com/46498913/52032872-eb799e80-2548-11e9-9316-b12a07bd0979.png" width="250px" height="400px" ></img>
 
 
 
