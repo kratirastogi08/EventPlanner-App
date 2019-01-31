@@ -1,7 +1,10 @@
 # EventPlanner-App
+<h3>About</h3>
 Event Planner Mobile Application lets you to manage your party,event plannings with ease by allowing you to manage your budget.Moreover,it helps you manage your guest list
 shopping list and many more.
 
+<h3>Screenshots</h3>
+<img src="https://user-images.githubusercontent.com/46498913/52032870-eae10800-2548-11e9-92af-c9fa526c13bf.png" width="200px" height="400px" ></img>
 
 
 
