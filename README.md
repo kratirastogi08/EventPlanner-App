@@ -2,11 +2,30 @@
 <h3>About</h3>
 Event Planner Mobile Application lets you to manage your party,event plannings with ease by allowing you to manage your budget.Moreover,it helps you manage your guest list
 shopping list and many more.
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 <h3>Screenshots</h3>
-<img src="https://user-images.githubusercontent.com/46498913/52032870-eae10800-2548-11e9-92af-c9fa526c13bf.png" width="250px" height="400px" float="left" padding="100px"></img>
-
-<img src="https://user-images.githubusercontent.com/46498913/52032872-eb799e80-2548-11e9-9316-b12a07bd0979.png" width="250px" height="400px" padding="100px" ></img>
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/46498913/52032870-eae10800-2548-11e9-92af-c9fa526c13bf.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/46498913/52032872-eb799e80-2548-11e9-9316-b12a07bd0979.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/46498913/52032873-eb799e80-2548-11e9-9668-c3c78c2f497f.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 
 
